@@ -53,5 +53,10 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>GoodFeelingSans.ttf</string>
+		<string>Dan'sDisneyUI.ttf</string>
+	</array>
 </dict>
 </plist>
