@@ -1,5 +1,5 @@
 # How to customize fonts in React Native
-This project was created as the result of a tutorial explaining how to add custom fonts in react native and set these new fonts to texts and inputs.
+This project was created as the result of a tutorial explaining how to add custom fonts in react native and set these new fonts to texts and inputs. You can find [here](https://www.rootstrap.com/blog/how-to-customize-fonts-in-react-native/) the tutorial article.
 
 ## Instalation steps
 
